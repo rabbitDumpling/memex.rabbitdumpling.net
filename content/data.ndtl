@@ -1,0 +1,24 @@
+var DATABASE = `
+TITLE OF POST
+  PERS : Person
+  SRCE : Source
+  AUTH : Author
+  LINK : https://rabbitdumpling.net/
+  TYPE : tool
+  TAGS : comma, separated, values, code, test
+  DATE : 2021-03-30
+  FILE : File as located in media.
+  QOTE : "quote" - person
+  NOTE : 
+    & add a new line WITHOUT symbol
+    + add a new line WITH symbol
+    > add a new line WITH symbol
+    ~ add a new line WITH symbol
+    - add new line WITH arrow marker
+  TERM : Key Terms
+  PROJ : Project
+  SEEN : False
+  DONE : True
+  REVI : False
+  WIDE : True
+`
