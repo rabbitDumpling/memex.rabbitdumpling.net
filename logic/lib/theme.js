@@ -1,6 +1,6 @@
 'use strict'
 
-function Theme (default_theme = { background: '#FAFAFA', f_high: '#746d71', f_med: '#dbaaa9', f_low: '#ecc0b5', f_inv: '#CFD2CD', b_high: '#007ba7', b_med: '#A6A2A2', b_low: '#CFD2CD', b_inv: '#ba7a05' }) {
+function Theme (default_theme = { background: '#464646', f_high: '#FCFCFC', f_med: '#DBAAA9', f_low: '#6D9BC3', f_inv: '#000D18', b_high: '#262626', b_med: '#333333', b_low: '#3F3F3F', b_inv: '#6D9BC3' }) {
   const themer = this
 
   this.el = document.createElement('style')
@@ -11,8 +11,8 @@ function Theme (default_theme = { background: '#FAFAFA', f_high: '#746d71', f_me
 
   this.collection = {
     default: default_theme,
-    noir: { background: '#FAFAFA', f_high: '#746d71', f_med: '#dbaaa9', f_low: '#ecc0b5', f_inv: '#CFD2CD', b_high: '#007ba7', b_med: '#A6A2A2', b_low: '#CFD2CD', b_inv: '#ba7a05' },
-    pale: { background: '#FAFAFA', f_high: '#746d71', f_med: '#dbaaa9', f_low: '#ecc0b5', f_inv: '#CFD2CD', b_high: '#007ba7', b_med: '#A6A2A2', b_low: '#CFD2CD', b_inv: '#ba7a05' }
+    noir: { background: '#464646', f_high: '#FCFCFC', f_med: '#DBAAA9', f_low: '#6D9BC3', f_inv: '#000D18', b_high: '#262626', b_med: '#333333', b_low: '#3F3F3F', b_inv: '#6D9BC3' },
+    pale: { background: '#464646', f_high: '#FCFCFC', f_med: '#DBAAA9', f_low: '#6D9BC3', f_inv: '#000D18', b_high: '#262626', b_med: '#333333', b_low: '#3F3F3F', b_inv: '#6D9BC3' }
   }
 
   this.install = function (host = document.body, callback) {
