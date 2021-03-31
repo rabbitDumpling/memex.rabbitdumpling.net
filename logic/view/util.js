@@ -16,7 +16,7 @@ function Util()
         case 'article': icon = 'far fa-newspaper'; break;
         case 'podcast': icon = 'fas fa-podcast'; break;
         case 'video': icon = 'fas fa-tv'; break;
-        case 'list': icon = 'fas fa-file-alt'; break;
+        case 'list': icon = 'fas fa-align-justify'; break;
         case 'book': icon = 'fas fa-book-open'; break;
         case 'game': icon = 'fas fa-gamepad'; break;
         case 'service': icon = 'fas fa-server'; break;
@@ -32,7 +32,7 @@ function Util()
         case 'date': icon = 'fas fa-clock'; break;
         case 'author': icon = 'fas fa-user'; break;
         case 'tags': icon = 'fas fa-tag'; break;
-        case 'project': icon = 'fas fa-leaf'; break;
+        case 'project': icon = 'fas fa-cube'; break;
         case 'progress': icon = 'fas fa-clock'; break;
         case 'file': icon = 'fas fa-folder-open'; break;
         case 'dash': icon = 'fas fa-caret-right'; break;

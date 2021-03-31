@@ -1,6 +1,6 @@
 'use strict'
 
-function Theme (default_theme = { background: '#222', f_high: '#fff', f_med: '#ccc', f_low: '#999', f_inv: '#fff', b_high: '#888', b_med: '#666', b_low: '#444', b_inv: '#000' }) {
+function Theme (default_theme = { background: '#FAFAFA', f_high: '#746d71', f_med: '#dbaaa9', f_low: '#ecc0b5', f_inv: '#CFD2CD', b_high: '#007ba7', b_med: '#A6A2A2', b_low: '#CFD2CD', b_inv: '#ba7a05' }) {
   const themer = this
 
   this.el = document.createElement('style')
@@ -11,8 +11,8 @@ function Theme (default_theme = { background: '#222', f_high: '#fff', f_med: '#c
 
   this.collection = {
     default: default_theme,
-    noir: { background: '#222', f_high: '#fff', f_med: '#ccc', f_low: '#999', f_inv: '#fff', b_high: '#888', b_med: '#666', b_low: '#444', b_inv: '#000' },
-    pale: { background: '#e1e1e1', f_high: '#000', f_med: '#777', f_low: '#fff', f_inv: '#000', b_high: '#eee', b_med: '#999', b_low: '#ccc', b_inv: '#fff' }
+    noir: { background: '#FAFAFA', f_high: '#746d71', f_med: '#dbaaa9', f_low: '#ecc0b5', f_inv: '#CFD2CD', b_high: '#007ba7', b_med: '#A6A2A2', b_low: '#CFD2CD', b_inv: '#ba7a05' },
+    pale: { background: '#FAFAFA', f_high: '#746d71', f_med: '#dbaaa9', f_low: '#ecc0b5', f_inv: '#CFD2CD', b_high: '#007ba7', b_med: '#A6A2A2', b_low: '#CFD2CD', b_inv: '#ba7a05' }
   }
 
   this.install = function (host = document.body, callback) {

@@ -2,22 +2,22 @@ var DATABASE = `
 TITLE OF POST
   PERS : Person
   SRCE : Source
-  AUTH : Author
+  AUTH : Authorgit
   LINK : https://rabbitdumpling.net/
-  TYPE : tool
+  TYPE : list
   TAGS : comma, separated, values, code, test
   DATE : 2021-03-30
   FILE : File as located in media.
   QOTE : "quote" - person
-  NOTE : 
+  NOTE
+    + add a new line WITH NOTE symbol
+    > add a new line WITH NOTE symbol
+    ~ add a new line WITH NOTE symbol
     & add a new line WITHOUT symbol
-    + add a new line WITH symbol
-    > add a new line WITH symbol
-    ~ add a new line WITH symbol
     - add new line WITH arrow marker
   TERM : Key Terms
   PROJ : Project
-  SEEN : False
+  SEEN : True
   DONE : True
   REVI : False
   WIDE : True
