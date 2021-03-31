@@ -20,3 +20,7 @@ TITLE OF POST
   DONE : True
   REVI : False
   WIDE : True
+
+
+
+article, podcast, video, list, book, game, service, lecture, quote, tool, music, image, encyclopedia, term, note, inspiration, date, author, tags, project, progress, file, link

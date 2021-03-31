@@ -1,24 +1,35 @@
 var DATABASE = `
-TITLE OF POST
-  PERS : Person
-  SRCE : Source
-  AUTH : Authorgit
-  LINK : https://rabbitdumpling.net/
-  TYPE : list
-  TAGS : comma, separated, values, code, test
-  DATE : 2021-03-30
-  FILE : File as located in media.
-  QOTE : "quote" - person
-  NOTE
-    + add a new line WITH NOTE symbol
-    > add a new line WITH NOTE symbol
-    ~ add a new line WITH NOTE symbol
-    & add a new line WITHOUT symbol
-    - add new line WITH arrow marker
-  TERM : Key Terms
-  PROJ : Project
-  SEEN : True
+COLECOVISION - FONTS IN USE
+  AUTH : Stephen Coles
+  LINK : https://fontsinuse.com/uses/25458/colecovision-console
+  TYPE : article
+  TAGS : fonts, colecovision
+  DATE : 2021-03-31
+  PROJ : Katlecovision
   DONE : True
-  REVI : False
-  WIDE : True
+
+HYRULE WARRIORS: DE ADVENTURE MODE GUIDE
+  LINK : https://docs.google.com/spreadsheets/d/1ktsriGufi5aAEIN1Hq4BJ2qvWHegBK6guQrixIVyp1s/htmlview#
+  TYPE : game
+  TAGS : guide, hyrule warriors
+  DATE : 2021-03-31
+
+HYRULE WARRIORS: DE MECHANICS GUIDE
+  AUTH : SBAllen
+  LINK : https://gamefaqs.gamespot.com/3ds/167257-hyrule-warriors-legends/faqs/73095/introduction
+  TYPE : game
+  TAGS : guide, hyrule warriors
+  DATE : 2021-03-31
+
+WHEEL DECIDE
+  LINK : https://wheeldecide.com/
+  TYPE : tool
+  TAGS : comma, separated, values, code, test
+  DATE : 2021-03-31
+
+SUPER MARIO RPG RANDOMIZER
+  LINK : https://randomizer.smrpgspeedruns.com/
+  TYPE : game
+  TAGS : randomizer
+  DATE : 2021-03-31
 `
