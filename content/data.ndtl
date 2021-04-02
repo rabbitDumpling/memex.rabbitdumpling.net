@@ -1,4 +1,19 @@
 var DATABASE = `
+MATTEL INTELLIVISION GAMES CONSOLE
+  LINK : https://collection.sciencemuseumgroup.org.uk/objects/co8094234/mattel-intellivision-games-console-games-console
+  TYPE : article
+  TAGS : intellivision, fonts
+  DATE : 2021-04-02
+  NOTE
+    + Intellivision console font details are as follows:
+    - The Intellivision logo font is SF Intellivised
+    - The Mattel Electronics logo font is could be Sailer but the "N" is different. I am using Auto Mission.
+    - The words Intelligent Television are in Helvetica Thin.
+    - The bios font is Intellec, but it needs some modifications: 84% horizontal scale, tracking to 2, and use a hidden "N" for proper space.
+    - Cart labels and boxes use Helvetica Black.e past figuring this out. :) Have fun!
+  PROJ : Intellimission
+  DONE : False
+  
 COLECOVISION - FONTS IN USE
   AUTH : Stephen Coles
   LINK : https://fontsinuse.com/uses/25458/colecovision-console
@@ -6,15 +21,15 @@ COLECOVISION - FONTS IN USE
   TAGS : fonts, colecovision
   DATE : 2021-03-31
   PROJ : Katlecovision
-  DONE : True
+  DONE : true
 
-HYRULE WARRIORS: DE ADVENTURE MODE GUIDE
+HYRULE WARRIORS: DEFINITIVE ADVENTURE MODE GUIDE
   LINK : https://docs.google.com/spreadsheets/d/1ktsriGufi5aAEIN1Hq4BJ2qvWHegBK6guQrixIVyp1s/htmlview#
   TYPE : game
   TAGS : guide, hyrule warriors
   DATE : 2021-03-31
 
-HYRULE WARRIORS: DE MECHANICS GUIDE
+HYRULE WARRIORS: DEFINITIVE MECHANICS GUIDE
   AUTH : SBAllen
   LINK : https://gamefaqs.gamespot.com/3ds/167257-hyrule-warriors-legends/faqs/73095/introduction
   TYPE : game

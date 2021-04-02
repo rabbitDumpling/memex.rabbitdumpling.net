@@ -5,7 +5,7 @@ TITLE OF POST
   LINK : https://rabbitdumpling.net/
   TYPE : list
   TAGS : comma, separated, values, code, test
-  DATE : 2021-03-30
+  DATE : 2021-04-02
   FILE : File as located in media.
   QOTE : "quote" - person
   NOTE
@@ -24,3 +24,144 @@ TITLE OF POST
 
 
 article, podcast, video, list, book, game, service, lecture, quote, tool, music, image, encyclopedia, term, note, inspiration, date, author, tags, project, progress, file, link
+
+
+
+TITLE OF POST
+  PERS : Person
+  SRCE : Source
+  AUTH : Authorgit
+  LINK : https://rabbitdumpling.net/
+  TYPE : list
+  TAGS : comma, separated, values, code, test
+  DATE : 2021-04-02
+  FILE : File as located in media.
+  QOTE : "quote" - person
+  NOTE
+    + add a new line WITH NOTE symbol
+    > add a new line WITH NOTE symbol
+    ~ add a new line WITH NOTE symbol
+    & add a new line WITHOUT symbol
+    - add new line WITH arrow marker
+  TERM : Key Terms
+  PROJ : Project
+  SEEN : True
+  DONE : True
+  REVI : False
+  WIDE : True
+
+TITLE OF POST
+  PERS : Person
+  SRCE : Source
+  AUTH : Authorgit
+  LINK : https://rabbitdumpling.net/
+  TYPE : list
+  TAGS : comma, separated, values, code, test
+  DATE : 2021-04-02
+  FILE : File as located in media.
+  QOTE : "quote" - person
+  NOTE
+    + add a new line WITH NOTE symbol
+    > add a new line WITH NOTE symbol
+    ~ add a new line WITH NOTE symbol
+    & add a new line WITHOUT symbol
+    - add new line WITH arrow marker
+  TERM : Key Terms
+  PROJ : Project
+  SEEN : True
+  DONE : True
+  REVI : False
+  WIDE : True
+
+TITLE OF POST
+  PERS : Person
+  SRCE : Source
+  AUTH : Authorgit
+  LINK : https://rabbitdumpling.net/
+  TYPE : list
+  TAGS : comma, separated, values, code, test
+  DATE : 2021-04-02
+  FILE : File as located in media.
+  QOTE : "quote" - person
+  NOTE
+    + add a new line WITH NOTE symbol
+    > add a new line WITH NOTE symbol
+    ~ add a new line WITH NOTE symbol
+    & add a new line WITHOUT symbol
+    - add new line WITH arrow marker
+  TERM : Key Terms
+  PROJ : Project
+  SEEN : True
+  DONE : True
+  REVI : False
+  WIDE : True
+
+TITLE OF POST
+  PERS : Person
+  SRCE : Source
+  AUTH : Authorgit
+  LINK : https://rabbitdumpling.net/
+  TYPE : list
+  TAGS : comma, separated, values, code, test
+  DATE : 2021-04-02
+  FILE : File as located in media.
+  QOTE : "quote" - person
+  NOTE
+    + add a new line WITH NOTE symbol
+    > add a new line WITH NOTE symbol
+    ~ add a new line WITH NOTE symbol
+    & add a new line WITHOUT symbol
+    - add new line WITH arrow marker
+  TERM : Key Terms
+  PROJ : Project
+  SEEN : True
+  DONE : True
+  REVI : False
+  WIDE : True
+
+TITLE OF POST
+  PERS : Person
+  SRCE : Source
+  AUTH : Authorgit
+  LINK : https://rabbitdumpling.net/
+  TYPE : list
+  TAGS : comma, separated, values, code, test
+  DATE : 2021-04-02
+  FILE : File as located in media.
+  QOTE : "quote" - person
+  NOTE
+    + add a new line WITH NOTE symbol
+    > add a new line WITH NOTE symbol
+    ~ add a new line WITH NOTE symbol
+    & add a new line WITHOUT symbol
+    - add new line WITH arrow marker
+  TERM : Key Terms
+  PROJ : Project
+  SEEN : True
+  DONE : True
+  REVI : False
+  WIDE : True
+
+TITLE OF POST
+  PERS : Person
+  SRCE : Source
+  AUTH : Authorgit
+  LINK : https://rabbitdumpling.net/
+  TYPE : list
+  TAGS : comma, separated, values, code, test
+  DATE : 2021-04-02
+  FILE : File as located in media.
+  QOTE : "quote" - person
+  NOTE
+    + add a new line WITH NOTE symbol
+    > add a new line WITH NOTE symbol
+    ~ add a new line WITH NOTE symbol
+    & add a new line WITHOUT symbol
+    - add new line WITH arrow marker
+  TERM : Key Terms
+  PROJ : Project
+  SEEN : True
+  DONE : True
+  REVI : False
+  WIDE : True
+
