@@ -1,18 +1,54 @@
 var DATABASE = `
+H5AI
+  AUTH : Lars Jung
+  LINK : https://larsjung.de/h5ai/
+  TYPE : tool
+  TAGS : front end, php
+  DATE : 2021-04-04
+  FILE : File as located in media.
+  QOTE : "quote" - person
+  NOTE : h5ai is a modern file indexer for HTTP web servers with focus on your files. Directories are displayed in a appealing way and browsing them is enhanced by different views, a breadcrumb and a tree overview.
+  PROJ : RPG Archive
+  DONE : false
+
+5 FREE TOOLS TO PASSWORD-PROTECT YOUR WEBSITE
+  AUTH : Palin Ningthoujam
+  LINK : https://mashable.com/2008/05/03/5-free-tools-to-password-protect-your-sites/
+  TYPE : article
+  TAGS : back end, Security
+  DATE : 2021-04-04
+  NOTE
+    + add a new line WITH NOTE symbol
+    > add a new line WITH NOTE symbol
+    ~ add a new line WITH NOTE symbol
+    & add a new line WITHOUT symbol
+    - add new line WITH arrow marker
+  PROJ : RPG Archive
+  DONE : false
+
+PAGEMAP
+  AUTH : Lars Jung
+  LINK : https://larsjung.de/pagemap/
+  TYPE : tool
+  TAGS : front end, javascript
+  DATE : 2021-04-04
+  NOTE : Mini map for web pages.
+  DONE : null
+
 MATTEL INTELLIVISION GAMES CONSOLE
   LINK : https://collection.sciencemuseumgroup.org.uk/objects/co8094234/mattel-intellivision-games-console-games-console
   TYPE : article
   TAGS : intellivision, fonts
   DATE : 2021-04-02
   NOTE
-    + Intellivision console font details are as follows:
+    Intellivision console font details are as follows:
     - The Intellivision logo font is SF Intellivised
     - The Mattel Electronics logo font is could be Sailer but the "N" is different. I am using Auto Mission.
     - The words Intelligent Television are in Helvetica Thin.
     - The bios font is Intellec, but it needs some modifications: 84% horizontal scale, tracking to 2, and use a hidden "N" for proper space.
     - Cart labels and boxes use Helvetica Black.e past figuring this out. :) Have fun!
   PROJ : Intellimission
-  DONE : False
+  DONE : true
   
 COLECOVISION - FONTS IN USE
   AUTH : Stephen Coles
@@ -28,6 +64,7 @@ HYRULE WARRIORS: DEFINITIVE ADVENTURE MODE GUIDE
   TYPE : game
   TAGS : guide, hyrule warriors
   DATE : 2021-03-31
+  DONE : null
 
 HYRULE WARRIORS: DEFINITIVE MECHANICS GUIDE
   AUTH : SBAllen
@@ -35,16 +72,19 @@ HYRULE WARRIORS: DEFINITIVE MECHANICS GUIDE
   TYPE : game
   TAGS : guide, hyrule warriors
   DATE : 2021-03-31
+  DONE : null
 
 WHEEL DECIDE
   LINK : https://wheeldecide.com/
   TYPE : tool
   TAGS : comma, separated, values, code, test
   DATE : 2021-03-31
+  DONE : null
 
 SUPER MARIO RPG RANDOMIZER
   LINK : https://randomizer.smrpgspeedruns.com/
   TYPE : game
   TAGS : randomizer
   DATE : 2021-03-31
+  DONE : null
 `
